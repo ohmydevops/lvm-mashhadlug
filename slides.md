@@ -26,7 +26,6 @@ class:  right
     - خبرنامه اینجاست: https://newsletter.softwaretalks.ir
 - در حال حاضر مشغول مطالعه **کتاب مبانی بلاکچین** از انتشارات راه‌پرداخت میباشم.
 - چندین‌ساله که دانشجوی نرم‌افزارم و به نظر میاد برای فارغ‌التحصیل شدن نیازمند **معجزه** هستم.
-- به‌زودی توی آدرس **amirbagh75.github.io** به وبلاگ‌نویسی فنی شروع خواهم کرد.
 
 ---
 
@@ -78,5 +77,6 @@ class:  right
 - در حالت عادی چه میکردیم؟
 - بخش‌های مختلفی که LVM را میسازند: **PV -> VG -> LV -> FS**
 - Device Mapper چیست؟
+- Raid چیست؟
 - LVM چه مسائلی را قرار بوده حل کند؟ توجه کنیم که اولین کدهای LVM در سال 1998 نوشته شده است (توسط Heinz Mauelshagen)
 - منبع برای مطالعه بیشتر و عمیق‌تر از LVM: <a href='https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/pdf/logical_volume_manager_administration/Red_Hat_Enterprise_Linux-7-Logical_Volume_Manager_Administration-en-US.pdf'>لینک مطلب PDF سایت RedHat</a>
